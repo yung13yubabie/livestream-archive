@@ -8,7 +8,7 @@
 
 | 日期 | 活動 | 頁面 | 完整錄影 |
 |---|---|---|---|
-| 2026-10-14 | 自由工坊 AI讀書會（Discord）：公會平台、Grok 信箱自動化、匹克球遊戲與光雕、11/13 自由派對、Project Hub。有人聲的只有 23:23:48–00:01:03 | [活動頁](https://yung13yubabie.github.io/livestream-archive/streams/2026-10-14-ai-reading-club/)・[逐字稿](docs/streams/2026-10-14-ai-reading-club/transcript-full.md)・[報告 A](docs/streams/2026-10-14-ai-reading-club/report-a.md)・[報告 B](docs/streams/2026-10-14-ai-reading-club/report-b.md) | 未剪輯，11 段，見下表 |
+| 2026-10-14 | 自由工坊 AI讀書會（Discord）：公會平台、Grok 信箱自動化、匹克球遊戲與光雕、11/13 自由派對、Project Hub。有人聲的只有 23:23:48–00:01:03 | [活動頁](https://yung13yubabie.github.io/livestream-archive/streams/2026-10-14-ai-reading-club/)・[逐字稿](docs/streams/2026-10-14-ai-reading-club/transcript-full.md)・[報告 A](docs/streams/2026-10-14-ai-reading-club/report-a.md)・[報告 B](docs/streams/2026-10-14-ai-reading-club/report-b.md) | 未剪輯，目前公開前 6 段，見下表 |
 
 ### 2026-10-14 完整錄影
 
@@ -22,11 +22,6 @@
 | [full-part04.mp4](docs/streams/2026-10-14-ai-reading-club/files/full/full-part04.mp4) | 1:01:06–1:17:44 | 23:34:32–23:51:10 | 90MB |
 | [full-part05.mp4](docs/streams/2026-10-14-ai-reading-club/files/full/full-part05.mp4) | 1:17:44–1:49:43 | 23:51:10–00:23:08 | 90MB |
 | [full-part06.mp4](docs/streams/2026-10-14-ai-reading-club/files/full/full-part06.mp4) | 1:49:43–2:13:07 | 00:23:08–00:46:32 | 90MB |
-| [full-part07.mp4](docs/streams/2026-10-14-ai-reading-club/files/full/full-part07.mp4) | 2:13:07–2:49:34 | 00:46:32–01:23:00 | 90MB |
-| [full-part08.mp4](docs/streams/2026-10-14-ai-reading-club/files/full/full-part08.mp4) | 2:49:34–3:22:52 | 01:23:00–01:56:18 | 90MB |
-| [full-part09.mp4](docs/streams/2026-10-14-ai-reading-club/files/full/full-part09.mp4) | 3:22:52–3:41:30 | 01:56:18–02:14:56 | 90MB |
-| [full-part10.mp4](docs/streams/2026-10-14-ai-reading-club/files/full/full-part10.mp4) | 3:41:30–4:12:51 | 02:14:56–02:46:16 | 89MB |
-| [full-part11.mp4](docs/streams/2026-10-14-ai-reading-club/files/full/full-part11.mp4) | 4:12:51–4:46:22 | 02:46:16–03:19:48 | 84MB |
 
 ### 2026-10-14 相關連結
 
