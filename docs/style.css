@@ -5,3 +5,4 @@ h2{border-left:5px solid #38bdf8;padding-left:.6rem;margin-top:2.4rem}.note{back
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1rem}.card{background:#fff;border-radius:10px;padding:.8rem;box-shadow:0 1px 4px #0002}
 table{border-collapse:collapse;width:100%}td,th{border-bottom:1px solid #e2e8f0;padding:.4rem;text-align:left;vertical-align:top}
 .t p{background:#fff;padding:.6rem .9rem;border-radius:8px}.t time{color:#0369a1;font-weight:600;display:block}
+.card a{font-weight:600}
