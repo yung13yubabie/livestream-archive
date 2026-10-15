@@ -1,0 +1,23 @@
+{
+  "streams": [
+    {
+      "id": "2026-10-14-ai-reading-club",
+      "date": "2026-10-14",
+      "platform": "Discord",
+      "title": "自由工坊｜AI創意應用　AI讀書會",
+      "summary": "公會平台、Grok 信箱自動化、匹克球遊戲與光雕、11/13 第二場自由派對、Project Hub 多 AI 協作。",
+      "tags": ["公會平台", "Grok", "光雕投影", "匹克球", "Project Hub", "線下活動"],
+      "recorded": "22:33–02:47",
+      "voiced": "23:23:48–00:01:03",
+      "recording": "未剪輯 6 段（公開）",
+      "cover": "streams/2026-10-14-ai-reading-club/img/cover.svg",
+      "coverAlt": "抽象封面圖",
+      "url": "streams/2026-10-14-ai-reading-club/",
+      "links": [
+        {"label": "逐字稿", "href": "streams/2026-10-14-ai-reading-club/transcript-full.html"},
+        {"label": "報告 A", "href": "streams/2026-10-14-ai-reading-club/report-a.html"},
+        {"label": "報告 B", "href": "streams/2026-10-14-ai-reading-club/report-b.html"}
+      ]
+    }
+  ]
+}

@@ -39,16 +39,21 @@
 
 ```
 docs/                      GitHub Pages 根目錄
-  index.html               直播列表（每場一張卡片）
-  style.css                共用樣式
+  index.html               首頁：hero、直播列表（搜尋／平台／標籤篩選）
+  streams.json             直播列表資料（首頁由此渲染）
+  style.css                共用設計系統：tokens、版面、元件、深色模式、列印
+  site.js                  共用互動：目錄、閱讀進度、回到頂端、影片載入／錯誤狀態、列表篩選
+  one-video.js             同時只播放一支影片
+  404.html                 找不到頁面
   streams/<YYYY-MM-DD-名稱>/
-    index.html             活動頁：摘要、錄影、相關連結
+    index.html             活動頁：摘要、錄影、時間軸、相關連結
     transcript-full.md/.html  第一部分：基本資料與完整逐字稿
     report-a.md/.html      第二部分：主題分類報告
     report-b.md/.html      第三部分：時間順序報告
+    transcript.html        CLEAN 逐字稿單頁
     files/                 逐字稿 txt、有聲段 mp4
     files/full/            完整錄影分段 mp4（每段 <95MB）
     img/                   插圖
 ```
 
-新增一場直播：建立 `docs/streams/<日期-名稱>/`，在 `docs/index.html` 加一張卡片，在上方表格加一列。完整錄影用 `ffmpeg -c copy -f segment` 在關鍵影格切成每段 95MB 以下，放在 `files/full/`。
+新增一場直播：建立 `docs/streams/<日期-名稱>/`（沿用上列頁面結構與 `style.css` 的元件 class），在 `docs/streams.json` 加一筆，在上方表格加一列。完整錄影用 `ffmpeg -c copy -f segment` 在關鍵影格切成每段 95MB 以下，放在 `files/full/`。
