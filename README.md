@@ -23,6 +23,17 @@
 | [full-part05.mp4](docs/streams/2026-10-14-ai-reading-club/files/full/full-part05.mp4) | 1:17:44–1:49:43 | 23:51:10–00:23:08 | 90MB |
 | [full-part06.mp4](docs/streams/2026-10-14-ai-reading-club/files/full/full-part06.mp4) | 1:49:43–2:13:07 | 00:23:08–00:46:32 | 90MB |
 
+### 2026-10-14 字幕
+
+語音辨識（SenseVoice）加詞彙修正，未經人工校對，時間為每句；人名已替換為 [某成員]。第 1、2、6 段無人聲，不附字幕。
+
+| 影片 | 字幕 |
+|---|---|
+| full-part03.mp4 | [.vtt](docs/streams/2026-10-14-ai-reading-club/files/full/full-part03.zh-Hant.vtt)・[.srt](docs/streams/2026-10-14-ai-reading-club/files/full/full-part03.zh-Hant.srt) |
+| full-part04.mp4 | [.vtt](docs/streams/2026-10-14-ai-reading-club/files/full/full-part04.zh-Hant.vtt)・[.srt](docs/streams/2026-10-14-ai-reading-club/files/full/full-part04.zh-Hant.srt) |
+| full-part05.mp4 | [.vtt](docs/streams/2026-10-14-ai-reading-club/files/full/full-part05.zh-Hant.vtt)・[.srt](docs/streams/2026-10-14-ai-reading-club/files/full/full-part05.zh-Hant.srt) |
+| AI-reading-club-20261014-2323-0002.mp4（有聲段） | [.vtt](docs/streams/2026-10-14-ai-reading-club/files/AI-reading-club-20261014-2323-0002.zh-Hant.vtt)・[.srt](docs/streams/2026-10-14-ai-reading-club/files/AI-reading-club-20261014-2323-0002.zh-Hant.srt) |
+
 ### 2026-10-14 相關連結
 
 | 名稱 | 說明 | 連結 |
@@ -51,8 +62,8 @@ docs/                      GitHub Pages 根目錄
     report-a.md/.html      第二部分：主題分類報告
     report-b.md/.html      第三部分：時間順序報告
     transcript.html        CLEAN 逐字稿單頁
-    files/                 逐字稿 txt、有聲段 mp4
-    files/full/            完整錄影分段 mp4（每段 <95MB）
+    files/                 逐字稿 txt、有聲段 mp4 與字幕
+    files/full/            完整錄影分段 mp4（每段 <95MB）與有人聲段的字幕（*.zh-Hant.vtt/.srt）
     img/                   插圖
 ```
 
